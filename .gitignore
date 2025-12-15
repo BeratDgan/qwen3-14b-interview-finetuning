@@ -1,0 +1,20 @@
+# Secrets
+*.env
+.env
+
+# Model files 
+*.gguf
+*.bin
+*.safetensors
+
+# Checkpoints
+outputs/
+*.ckpt
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Colab/Drive
+.ipynb_checkpoints

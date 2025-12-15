@@ -1,0 +1,9 @@
+torch>=2.0.0
+unsloth
+transformers
+trl
+peft
+accelerate
+bitsandbytes
+datasets
+llama-cpp-python
