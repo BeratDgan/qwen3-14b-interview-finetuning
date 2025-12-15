@@ -110,5 +110,3 @@ print(output['choices'][0]['text'])
 -----
 
 *Project maintained by Berat Doğan.*
-
-```
